@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "2357f1fb-ff05-4d54-989a-df6748c82fd7",
+    "appKeys": {},
+    "longName": "Progress",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "Progress",
+    "companyName": "Logical Pixels",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": []
+    }
+}
